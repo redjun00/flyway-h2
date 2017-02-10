@@ -26,3 +26,6 @@ http://theopentutorials.com/tutorials/eclipse/dtp/eclipse-dtp-configure-h2-datas
 
 Eclipse DTP: Configure H2 Datasource using Data Source Explorer » the O...
 theopentutorials.com
+
+flyway 적용 
+gradle flywayMigrate -i
